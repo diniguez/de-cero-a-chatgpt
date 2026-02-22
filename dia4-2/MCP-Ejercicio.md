@@ -21,8 +21,16 @@
    ```
    Esto se hace con Control + Shift + P -> "GitHub Copilot: Add MCP server" -> Command stdio --> `docker run -i --rm calculator_mcp`.
 
-   # Ejercicio MCP
+# Ejercicio MCP I
 
    Crea una servidor MCP que se conecte a la base de datos `Chinook_Sqlite.sqlite` y responda preguntas en lenguaje natural. 
 
    **Pistas**: El dockerfile debe instalar las liberías necesarias y copiar la base de datos al contenedor (junto con el script que implementa el servidor MCP).
+
+# Ejercicio MCP II
+
+Investiga como conectar el servidor MCP a un agente smolagent y LangChain. En otras palabras, instancia un agente usando esas librerías cuyas herramientas sean las expuestas por tu servidor MCP.
+
+Links útiles:
+- https://docs.langchain.com/oss/python/langchain/mcp
+- https://huggingface.co/docs/smolagents/tutorials/tools#use-tools-from-an-mcp-server

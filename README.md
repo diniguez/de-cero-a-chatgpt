@@ -120,52 +120,52 @@ Si se va a utilizar Ollama el contenedor debe estar corriendo. Si se ha terminad
 
 Los siguientes notebooks pertenecen al Día 1:
 
-| Notebook | Open in Colab |
-|----------|---------------|
-| [Gradiente Descendente](dia1/1_gradiente_descendente.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/1_gradiente_descendente.ipynb) |
-| [Los Tres Ingredientes](dia1/2_los_tres_ingredientes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/2_los_tres_ingredientes.ipynb) |
-| [Regularización](dia1/3_regularizacion.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/3_regularizacion.ipynb) |
-| [Ejercicio Final](dia1/4_ejercicio_final.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/4_ejercicio_final.ipynb) |
+| Notebook | Open in Colab | Open in Kaggle |
+|----------|---------------|----------------|
+| [Gradiente Descendente](dia1/1_gradiente_descendente.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/1_gradiente_descendente.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Los Tres Ingredientes](dia1/2_los_tres_ingredientes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/2_los_tres_ingredientes.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Regularización](dia1/3_regularizacion.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/3_regularizacion.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Ejercicio Final](dia1/4_ejercicio_final.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia1/4_ejercicio_final.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
 
 ### Día 2
 
 Los siguientes notebooks pertenecen al Día 2:
 
-| Notebook | Open in Colab |
-|----------|---------------|
-| [Tokenizer, RNN, LSTM, GRU](dia2/tokenizer_rnn_lstm_gru.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia2/tokenizer_rnn_lstm_gru.ipynb) |
+| Notebook | Open in Colab | Open in Kaggle |
+|----------|---------------|----------------|
+| [Tokenizer, RNN, LSTM, GRU](dia2/tokenizer_rnn_lstm_gru.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia2/tokenizer_rnn_lstm_gru.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
 
 ### Día 3
 
 Los siguientes notebooks pertenecen al Día 3:
 
-| Notebook | Open in Colab |
-|----------|---------------|
-| [Encoder](dia3/1_encoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/1_encoder.ipynb) |
-| [Encoder Random](dia3/2_encoder_random.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/2_encoder_random.ipynb) |
-| [Ejercicio Encoder](dia3/3_ejercicio_encoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/3_ejercicio_encoder.ipynb) |
-| [Transformer](dia3/transformer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/transformer.ipynb) |
+| Notebook | Open in Colab | Open in Kaggle |
+|----------|---------------|----------------|
+| [Encoder](dia3/1_encoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/1_encoder.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Encoder Random](dia3/2_encoder_random.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/2_encoder_random.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Ejercicio Encoder](dia3/3_ejercicio_encoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/3_ejercicio_encoder.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Transformer](dia3/transformer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia3/transformer.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
 
 ### Día 4.1
 
 Los siguientes notebooks pertenecen al Día 4.1:
 
-| Notebook | Open in Colab |
-|----------|---------------|
-| [Decoder](dia4-1/4_decoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/4_decoder.ipynb) |
-| [Decoder SFT 1](dia4-1/5_decoder_sft_1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/5_decoder_sft_1.ipynb) |
-| [Decoder SFT LoRA](dia4-1/5_decoder_sft_lora.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/5_decoder_sft_lora.ipynb) |
-| [Número Parámetros](dia4-1/6_numero_parametros.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/6_numero_parametros.ipynb) |
-| [Inferencia HF](dia4-1/7_inferencia_hf.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/7_inferencia_hf.ipynb) |
+| Notebook | Open in Colab | Open in Kaggle |
+|----------|---------------|----------------|
+| [Decoder](dia4-1/4_decoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/4_decoder.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Decoder SFT 1](dia4-1/5_decoder_sft_1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/5_decoder_sft_1.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Decoder SFT LoRA](dia4-1/5_decoder_sft_lora.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/5_decoder_sft_lora.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Número Parámetros](dia4-1/6_numero_parametros.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/6_numero_parametros.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Inferencia HF](dia4-1/7_inferencia_hf.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-1/7_inferencia_hf.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
 
 ### Día 4.2
 
 Los siguientes notebooks pertenecen al Día 4.2:
 
-| Notebook | Open in Colab |
-|----------|---------------|
-| [Ollama](dia4-2/0_ollama.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-2/0_ollama.ipynb) |
-| [Smolagents](dia4-2/1_smolagents.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-2/1_smolagents.ipynb) |
-| [Langchain Agent](dia4-2/2_langchain_agent.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-2/2_langchain_agent.ipynb) |
+| Notebook | Open in Colab | Open in Kaggle |
+|----------|---------------|----------------|
+| [Ollama](dia4-2/0_ollama.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-2/0_ollama.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Smolagents](dia4-2/1_smolagents.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-2/1_smolagents.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
+| [Langchain Agent](dia4-2/2_langchain_agent.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Antolin1/de-cero-a-chatgpt/blob/main/dia4-2/2_langchain_agent.ipynb) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/code) |
 
 El enunciado del ejercicio MCP se encuentra [aquí](dia4-2/MCP-Ejercicio.md).
