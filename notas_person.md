@@ -43,3 +43,27 @@ reducir estos hiperparámetros:
     per_device_eval_batch_size=32,
 y activar el hiperparámetro:
     fplg
+
+# Modelos fundacionales y SFT(Supervised Fine-Tunned)
+existen modelos fundacionales, se suelen etiquetar con el sufijo "-b" que para ser utilziados deben ser fine-tuneados o darles un prompt bien formateado (leer la documentación del modelo para ver si es el caso y cómo usarlo). Tampoco soportan chat, sólo funcionan en modo 1pregunta-1respuesta.
+
+# Modelos Instruct
+Los SFT son muy directos, dan solamente la respuesta pedida, sin introducción, explicación o preguntando para resolver ambigüedades.
+usando libreria TRL de convertir de modelo fundacional a SFT
+
+# Modelos con Reinforcement Learning, tipo ChatGPT
+RLHF(Reinforcement Learning from Human Feedback) añade verbosidad para seguir instrucciones adaptadas a las preferencias de las conversaciones humanas, es ahora mismo el punto donde las empresas se diferencian unas de otras y recelosos de compartir los detalles de estos procesos.
+
+# PEFT
+
+Ahorro de costes y espacio para entrenar, 1ª solucion es dejar algunas capas sin entrenar, y entrenar las últimas capas
+
+# LoRA
+
+en el ejemplo de 5_decoder_sft_lora.ipynb
+    per_device_train_batch_size=4, # batch size pequeño para que quepa en GPU
+    gradient_accumulation_steps=8, # acumulamos gradientes para simular un batch size mayor
+da lugar a un batch size efectivo de 4x8 = 32
+
+# Cuantización = Reducción de la precisión a 8B, 4B integer
+PTQ significa que usa un Grupo de calibración y da mejores resultados, casi tan preciso como el modelo no cuantizado.
