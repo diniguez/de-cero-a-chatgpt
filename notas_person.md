@@ -67,3 +67,6 @@ da lugar a un batch size efectivo de 4x8 = 32
 
 # Cuantización = Reducción de la precisión a 8B, 4B integer
 PTQ significa que usa un Grupo de calibración y da mejores resultados, casi tan preciso como el modelo no cuantizado.
+
+# RAG embeddings
+Qwen models como el https://huggingface.co/Qwen/Qwen3-Embedding-4B
